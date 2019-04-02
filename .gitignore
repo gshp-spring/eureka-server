@@ -9,7 +9,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+*.eclipse*
+*.lock*
+*
 # Package Files #
 *.jar
 *.war
